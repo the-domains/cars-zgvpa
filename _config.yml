@@ -1,0 +1,14 @@
+layout_spectrum: 0.34921930031850934
+typography_spectrum: 0.4202716243453324
+color:
+  brandStrength: 0.34002829203382134
+  lightness: 0.7998204047325999
+  saturation: 0.8471797225065529
+  rhythmicContrast: 0.6585086490958929
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: cars
